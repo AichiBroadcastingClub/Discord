@@ -62,3 +62,7 @@ p {
   color: rgb(200, 210, 240);
   -webkit-text-fill-color: rgb(200, 210, 240);
 }
+
+span.URL {
+  font-size: 30px;
+}
