@@ -1,7 +1,16 @@
 span.URL {
-  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+}
+
+span.Insert {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 span.Discord {
-  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
 }
